@@ -11,7 +11,7 @@ make
 ./result
 ```
 
-![Choosing CSA](https://github.com/hariprasadr1hp/structgrid/blob/master/docs/i-section.png)
+![Choosing CSA](https://github.com/hariprasadr1hp/dva_qt/blob/master/docs/i-section.png)
 
-![Kinematic Plots](https://github.com/hariprasadr1hp/structgrid/blob/master/docs/final-plot.png)
+![Kinematic Plots](https://github.com/hariprasadr1hp/dva_qt/blob/master/docs/final-plot.png)
 
