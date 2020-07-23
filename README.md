@@ -10,3 +10,11 @@ cmake ..
 make
 ./result
 ```
+
+Screenshots:
+
+![Choosing CSA](https://github.com/hariprasadr1hp/structgrid/blob/master/docs/i-section.png)
+
+![Kinematics](https://github.com/hariprasadr1hp/structgrid/blob/master/docs/final-plot.png)
+
+
